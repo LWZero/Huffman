@@ -1,0 +1,7 @@
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\bin\Release\HuffmanDll.dll
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\bin\Release\HuffmanDll.pdb
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\bin\Release\HuffmanData.dll
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\bin\Release\HuffmanData.pdb
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\obj\Release\HuffmanDll.csproj.CoreCompileInputs.cache
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\obj\Release\HuffmanDll.dll
+D:\Cours\CurrentYear\dotnet\HuffmanDll\HuffmanDll\obj\Release\HuffmanDll.pdb
